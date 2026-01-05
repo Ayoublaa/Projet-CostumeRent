@@ -365,7 +365,7 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 ## 👨‍💻 Auteur
 
-Développé avec ❤️ pour un projet de développement mobile.
+Développé par Ayoub Laafar et Kaoutar Menacera pour un projet de développement mobile.
 
 ---
 
