@@ -325,17 +325,70 @@ costume-rental-app/
 
 ## 📸 Captures d'Écran
 
-### Écran d'Accueil
-L'écran principal affiche un message de bienvenue, les catégories de costumes et les costumes populaires.
+<div align="center">
 
-### Catalogue de Costumes
-Parcourez tous les costumes disponibles avec une vue en grille. Utilisez la barre de recherche pour trouver rapidement un costume.
+### 🔐 Authentification
+<img src="screenshots/login.png" width="250" alt="Écran de connexion">
 
-### Détail d'un Costume
-Consultez les informations détaillées : description, taille, prix par jour et disponibilité.
+*Écran de connexion avec email et mot de passe*
 
-### Panier & Réservation
-Gérez votre panier, sélectionnez les dates de location et confirmez votre réservation.
+---
+
+### 🏠 Écran d'Accueil
+<img src="screenshots/home.png" width="250" alt="Écran d'accueil">
+
+*L'écran principal affiche un message de bienvenue, les catégories de costumes et les costumes populaires*
+
+---
+
+### 📂 Catégories
+<img src="screenshots/categories.png" width="250" alt="Écran des catégories">
+
+*Navigation par catégories : Super-héros, Médiéval, Métiers, Halloween, Princesses, etc.*
+
+---
+
+### 👗 Catalogue de Costumes
+<img src="screenshots/costumes.png" width="250" alt="Liste des costumes">
+
+*Parcourez tous les costumes disponibles avec recherche et filtrage*
+
+---
+
+### 📝 Réservation
+<img src="screenshots/reservation-form.png" width="250" alt="Formulaire de réservation">
+
+*Formulaire de réservation avec informations client et sélection de dates*
+
+---
+
+### ✅ Confirmation
+<img src="screenshots/reservation-confirmed.png" width="250" alt="Confirmation de réservation">
+
+*Confirmation de réservation avec calcul automatique du prix total*
+
+---
+
+### 📋 Mes Réservations
+<img src="screenshots/reservations.png" width="250" alt="Liste des réservations">
+
+*Historique et suivi de toutes vos réservations*
+
+---
+
+### 🛒 Panier
+<img src="screenshots/cart.png" width="250" alt="Panier">
+
+*Gérez votre panier avec récapitulatif des frais*
+
+---
+
+### 👤 Profil
+<img src="screenshots/profile.png" width="250" alt="Profil utilisateur">
+
+*Accédez à votre profil, paramètres et historique*
+
+</div>
 
 ---
 

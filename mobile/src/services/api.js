@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // Remplacez par l'IP de votre ordinateur
-const API_URL = 'http://172.20.10.5:8000/api';
+const API_URL = 'http://192.168.1.5:8000/api';
 
 const api = axios.create({
   baseURL: API_URL,
@@ -47,7 +47,7 @@ export const reservationService = {
 
 // URL des images
 export const getImageUrl = (imageName) => {
-  return `http://172.20.10.5:8000/images/${imageName}`;
+  return `http://192.168.1.5:8000/images/${imageName}`;
 };
 
 export default api;
