@@ -416,15 +416,17 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 ---
 
-## 👨‍💻 Auteur
+## 👨‍💻 Auteurs
 
-Développé par Ayoub Laafar et Kaoutar Menacera pour un projet de développement mobile.
+**Ayoub Laafar** - Développeur Full Stack  
+**Kaoutar Menacera** - Développeur Full Stack
+
+📧 Contact : ayoub.laafar@example.com
 
 ---
 
-## 🙏 Remerciements
+## 📚 Références
 
-- [Laravel](https://laravel.com/) - Framework PHP élégant
-- [React Native](https://reactnative.dev/) - Framework mobile
-- [Expo](https://expo.dev/) - Plateforme de développement
-- [Ionicons](https://ionic.io/ionicons) - Icônes
+- [Documentation Laravel](https://laravel.com/docs)
+- [Documentation React Native](https://reactnative.dev/docs)
+- [Documentation Expo](https://docs.expo.dev)
