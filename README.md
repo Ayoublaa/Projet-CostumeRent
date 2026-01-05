@@ -328,63 +328,63 @@ costume-rental-app/
 <div align="center">
 
 ### 🔐 Authentification
-<img src="screenshots/login.png" width="250" alt="Écran de connexion">
+<img src="screenshots/login.jpeg" width="250" alt="Écran de connexion">
 
 *Écran de connexion avec email et mot de passe*
 
 ---
 
 ### 🏠 Écran d'Accueil
-<img src="screenshots/home.png" width="250" alt="Écran d'accueil">
+<img src="screenshots/home.jpeg" width="250" alt="Écran d'accueil">
 
 *L'écran principal affiche un message de bienvenue, les catégories de costumes et les costumes populaires*
 
 ---
 
 ### 📂 Catégories
-<img src="screenshots/categories.png" width="250" alt="Écran des catégories">
+<img src="screenshots/categories.jpeg" width="250" alt="Écran des catégories">
 
 *Navigation par catégories : Super-héros, Médiéval, Métiers, Halloween, Princesses, etc.*
 
 ---
 
 ### 👗 Catalogue de Costumes
-<img src="screenshots/costumes.png" width="250" alt="Liste des costumes">
+<img src="screenshots/costumes.jpeg" width="250" alt="Liste des costumes">
 
 *Parcourez tous les costumes disponibles avec recherche et filtrage*
 
 ---
 
 ### 📝 Réservation
-<img src="screenshots/reservation-form.png" width="250" alt="Formulaire de réservation">
+<img src="screenshots/reservation-form.jpeg" width="250" alt="Formulaire de réservation">
 
 *Formulaire de réservation avec informations client et sélection de dates*
 
 ---
 
 ### ✅ Confirmation
-<img src="screenshots/reservation-confirmed.png" width="250" alt="Confirmation de réservation">
+<img src="screenshots/reservation-confirmed.jpeg" width="250" alt="Confirmation de réservation">
 
 *Confirmation de réservation avec calcul automatique du prix total*
 
 ---
 
 ### 📋 Mes Réservations
-<img src="screenshots/reservations.png" width="250" alt="Liste des réservations">
+<img src="screenshots/reservations.jpeg" width="250" alt="Liste des réservations">
 
 *Historique et suivi de toutes vos réservations*
 
 ---
 
 ### 🛒 Panier
-<img src="screenshots/cart.png" width="250" alt="Panier">
+<img src="screenshots/cart.jpeg" width="250" alt="Panier">
 
 *Gérez votre panier avec récapitulatif des frais*
 
 ---
 
 ### 👤 Profil
-<img src="screenshots/profile.png" width="250" alt="Profil utilisateur">
+<img src="screenshots/profile.jpeg" width="250" alt="Profil utilisateur">
 
 *Accédez à votre profil, paramètres et historique*
 
