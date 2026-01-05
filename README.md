@@ -421,7 +421,7 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 **Ayoub Laafar** - Développeur Full Stack  
 **Kaoutar Menacera** - Développeur Full Stack
 
-📧 Contact : ayoub.laafar@example.com
+📧 Contact : laafarayoub8@gmail.com
 
 ---
 
