@@ -46,7 +46,7 @@ Thumbs.db
 *.log
 logs/
 
-# Database (optionnel - décommentez si vous ne voulez pas inclure la DB)
+# Database 
 # backend/database/database.sqlite
 # database/*.sql
 
