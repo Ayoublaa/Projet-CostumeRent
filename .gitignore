@@ -1,0 +1,52 @@
+# Backend Laravel
+backend/vendor/
+backend/node_modules/
+backend/.env
+backend/.env.backup
+backend/.env.production
+backend/.phpunit.result.cache
+backend/Homestead.json
+backend/Homestead.yaml
+backend/npm-debug.log
+backend/yarn-error.log
+backend/storage/*.key
+backend/storage/logs/*.log
+
+# Mobile React Native
+mobile/node_modules/
+mobile/.expo/
+mobile/dist/
+mobile/npm-debug.log
+mobile/yarn-error.log
+mobile/*.jks
+mobile/*.p8
+mobile/*.p12
+mobile/*.key
+mobile/*.mobileprovision
+mobile/*.orig.*
+mobile/web-build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Database (optionnel - décommentez si vous ne voulez pas inclure la DB)
+# backend/database/database.sqlite
+# database/*.sql
+
